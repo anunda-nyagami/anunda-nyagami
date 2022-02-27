@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anunda-nyagami
-- 👀 I’m interested in data science, machine learning and AI
+- 👀 Keen interest in data science, machine learning, AI, bioinformatics 
 - 🌱 I’m currently learning machine learning specialist career track
 - 💞️ I’m looking to collaborate on projects in the mentioned areas
 - 📫 How to reach me at davis.anunda@gmail.com
