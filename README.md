@@ -1,7 +1,7 @@
 Hi 👋 My name is Davis Anunda Nyagami
 =====================================
 
-Reseacher and Data Analyst
+Reseacher, Data Analyst, aspriring Data Scientist
 --------------------------
 
 Having worked for 8+ years in the research field collecting, cleaning and analyzing data, my passion for coding and data science has pushed me into learning Data Science with Python.
