@@ -4,11 +4,11 @@ Hi 👋 My name is Davis Anunda Nyagami
 Reseacher, Data Analyst and aspriring Data Scientist
 --------------------------
 
-Having worked for 8+ years in the research field collecting, cleaning and analyzing data, my passion for coding and data science has pushed me into learning Data Science with Python.
+Having worked for 8+ years in the research field collecting, cleaning and analyzing data, my passion for coding and data science has pushed me into completing Data Science with Python course.
 
 * 🌍  I'm based in Mombasa, Kenya
 * ✉️  You can contact me at [davis.anunda@gmail.com](mailto:davis.anunda@gmail.com)
-* 🧠  I'm learning Machine Learning Specialist track
+* 🧠  I'm currently learning Machine Learning Specialist track, Introduction to statistics at Coursera and the Google Data Analytics course at Coursera
 * 🤝  I'm open to collaborating on projects related to Python, Data Science, Machine Learning and Bioinformatics
 
 ### Skills
