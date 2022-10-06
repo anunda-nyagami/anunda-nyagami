@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst
 ------------
 
-Extensive experience in data analysis using Python, R, and SQL and data visualization using Matplotlib, Seaborn and Tableau. Supervised and unsupervised machine learning modelling, and text processing with NLTK.
+I have extensive experience in data analysis using Python, R, and SQL and data visualization using Matplotlib and Seaborn. I am well versed with supervised and unsupervised machine learning modelling as well as text processing with NLTK.
 
 * 🌍  I'm based in Nairobi
 * 🖥️  See my portfolio at [Github and Kaggle](http://anunda-nyagami.github.io)
