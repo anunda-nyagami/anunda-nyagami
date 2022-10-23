@@ -7,7 +7,7 @@ Data Analyst
 Extensive experience in data analysis using Python, R, and SQL and data visualization using Matplotlib, Seaborn and Tableau. Supervised and unsupervised machine learning modelling, and text processing with NLTK.
 
 * 🌍  I'm based in Nairobi
-* 🖥️  See my portfolio at [Github and Kaggle](http://anunda-nyagami.github.io)
+* 🖥️  See my portfolio [Here](http://anunda-nyagami.github.io)
 * ✉️  You can contact me at [davis.anunda@gmail.com](mailto:davis.anunda@gmail.com)
 * 🧠  I'm learning Machine Learning Scientist with Python
 * 🤝  I'm open to collaborating on data analysis and machine learning projects
